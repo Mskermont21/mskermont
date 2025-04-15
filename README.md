@@ -1,5 +1,5 @@
 # mskermont
-my GITHUB profile
+my GITHUB profile Resume 
 # Hello, I'm Martin Skermont
 <a href="https://www.linkedin.com/in/martin-skermont-16518a310/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -10,7 +10,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 My objective is to be in a great work enviroment and expand my knowledge in cyber and to have a lot of knowledge and learning the most that I can and I want to learn as much as I can in my cereer.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security anaylst job opportunity to further my knowledge.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
